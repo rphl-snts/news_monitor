@@ -1,2 +1,2 @@
-# news_monitor
+# News monitor
 Web crawler for monitoring on news sites
